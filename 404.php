@@ -368,7 +368,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 					<li><a href="mailto:team@mcbetohk.tk" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
 				</ul>
 				<ul class="copyright">
-					<li>&copy; TOHK</li><li>Design: <a href="http://html5up.net">HTML5 UP</a> <li><?php echo $_SERVER["REMOTE_ADDR"]; ?></li></li>
+					<li>&copy; TOHK</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>IP address: <?php echo $_SERVER["REMOTE_ADDR"]; ?>
 				</ul>
 			</section>
 
